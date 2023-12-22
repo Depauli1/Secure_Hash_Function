@@ -48,11 +48,6 @@ Adjust "Bless, Hukporti" in the main function as needed.
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## Acknowledgments
-
-The project makes use of the num_bigint and num_traits crates.
-Inspired by the need for a concurrent and modular arithmetic solution.
-
 ## Author
 
 Bless Hukporti
